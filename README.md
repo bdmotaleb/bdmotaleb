@@ -27,4 +27,10 @@ of my professional ability in terms of, technical and analytical skills, and hel
 }
 ```
 
+## My GitHub Stats
+<div>
+<img align="center" width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=bdmotaleb&theme=radical" alt="bdmotaleb" />
+<img align="center" width="49%"  src="https://github-readme-stats.vercel.app/api?username=bdmotaleb&show_icons=true&locale=en&theme=radical" alt="bdmotaleb" />
+</div>
+
 <img src="https://github-readme-stats.vercel.app/api/?username=bdmotaleb&show_icons=true&title_color=#454441&icon_color=79ff97&text_color=#454441&bg_color=#dedcd7">
