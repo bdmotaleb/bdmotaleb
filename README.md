@@ -9,20 +9,21 @@ Innovative tech mind with 3+ years of experience working as a full-stack develop
 of my professional ability in terms of, technical and analytical skills, and helps me in broadening and enhancing my current skill and knowledge.
 
 
-- 🔭 I’m currently working on Laravel & VueJS,
-- 🌱 I’m currently learning JAVA
+- 🔭 I’m currently working on Laravel & VueJS
+- 🌱 I’m currently learning Docker
 - 💬 Ask me about #Laravel #Codeigniter #PHP #MySQL #VueJS
-- ⚡ Fun fact: Watch Bangla Natok for day long
+- ⚡ Fun fact: Traveling, Bike riding, Watch Bangla Natok for day long
 
 ## {...} My Stack 💻🚀
 
 ```js
 {
-  Languages: ['JavaScript', 'PHP', 'Python', 'C', 'Java'], 
+  Languages: ['PHP', 'JavaScript', 'C', 'Python', 'Java'], 
   Framework: ['Laravel', 'Codeigniter'],
-  Frontend: ['VueJs'],
-  Databases: ["SQL"],
-  Tools: ['PhpStorm', 'Postman', 'Trello', 'Slack'],
+  Frontend: ['VueJs', 'jQuery'],
+  Databases: ['MySQL', 'PostgreSQL'],
+  Tools: ['Docker', 'PhpStorm', 'Postman', 'GitHub Desktop', 'Trello', 'Slack'],
+  Cloud: ['DigitalOcean'],
   Open Source: ['Git, GitHub']
 }
 ```
