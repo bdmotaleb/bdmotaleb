@@ -5,20 +5,18 @@
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffcc80)](https://www.linkedin.com/in/motaleb7g)
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:bdmotaleb33@gmail.com)
 
-Innovative tech mind with 3+ years of experience working as a full-stack developer. Looking for a challenging career which demands the best
-of my professional ability in terms of, technical and analytical skills, and helps me in broadening and enhancing my current skill and knowledge.
-
+👋 Hi, I'm a Software Specialist with over 4 years of experience in developing robust and scalable software solutions. My expertise spans across multiple programming languages, frameworks, and technologies, allowing me to adapt and thrive in various project environments.
 
 - 🔭 I’m currently working on Laravel & VueJS
 - 🌱 I’m currently learning Docker
-- 💬 Ask me about #Laravel #Codeigniter #PHP #MySQL #VueJS
+- 💬 Ask me about #Laravel #PHP #MySQL #VueJS
 - ⚡ Fun fact: Traveling, Bike riding, Watch Bangla Natok for day long
 
 ## {...} My Stack 💻🚀
 
 ```js
 {
-  Languages: ['PHP', 'JavaScript', 'C', 'Python', 'Java'], 
+  Languages: ['PHP', 'JavaScript', 'Python'], 
   Framework: ['Laravel', 'Codeigniter'],
   Frontend: ['VueJs', 'jQuery'],
   Databases: ['MySQL', 'PostgreSQL'],
