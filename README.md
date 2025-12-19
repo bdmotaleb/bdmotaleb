@@ -5,7 +5,7 @@
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffcc80)](https://www.linkedin.com/in/motaleb7g)
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:bdmotaleb33@gmail.com)
 
-👋 Hi there! I'm a dedicated Software Specialist with over 4 years of experience in crafting high-quality software solutions. My diverse skill set and passion for learning enable me to tackle complex challenges and deliver efficient and scalable applications. I'm always excited to collaborate on innovative projects and contribute to the open-source community.
+👋 Hi there! I'm a dedicated Software Specialist with over 6 years of experience in crafting high-quality software solutions. My diverse skill set and passion for learning enable me to tackle complex challenges and deliver efficient and scalable applications. I'm always excited to collaborate on innovative projects and contribute to the open-source community.
 
 ### 🔧 Technical Skills
 
